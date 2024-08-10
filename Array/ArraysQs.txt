@@ -1,1 +1,2 @@
-
+1. Verify the Row-Major and Column-Major Operations
+2. Convert a matrix to its Sparse Triplet Representation. Also Add two such Sparse Matrices. 
