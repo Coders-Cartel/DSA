@@ -19,7 +19,16 @@ In each of the directory, it contains a txt file which should contain all the qu
 2. Open the folder in your desired IDE and add or modify code
 
 3. Then commit all the locally made changes to the main branch of the git repo
-   $ git status
-   $ git add .
-   $ git commit -m "modified a file"
-   $ git push
+>> $ git status
+>>  $ git add .
+>>  $ git commit -m "modified a file"
+>>  $ git push -u origin main
+>>  $ git log
+>>  $ git status
+
+3. To update your locally stored repo, use
+>> $ git pull 
+   
+
+For More info on how to use git 
+yt channel - https://www.youtube.com/watch?v=yxvqLBHZfXk
